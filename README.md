@@ -21,4 +21,4 @@ username是visit账号，password是visit密码。</br>
 refresh随便是什么填什么，如果是refresh或者sx会先刷新公网信息，然后刷新。</br>
 外网访问需要映射，内网访问,前面填安装电脑ip地址如：</br>
 192.168.66.66:6666/root/root/refresh 或 192.168.66.66:6666/root/root/sx，这两个是会获取公网信息刷新。</br>
-192.168.66.66:6666/root/root/随意，如果后面不是refresh或sx。
+192.168.66.66:6666/root/root/随意，如果后面不是refresh或sx，不会刷新公网信息。
