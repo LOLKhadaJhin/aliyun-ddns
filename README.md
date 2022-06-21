@@ -1,5 +1,5 @@
 # aliyun-ddns</br>
-视频教程：https://www.bilibili.com/video/BV1R3411M7LW/
+视频教程：https://www.bilibili.com/video/BV1R3411M7LW/</br>
 配置说明。只要修改三样数据：1、你买的域名。2、能够修改域名信息的账号</br>
 https://github.com/LOLKhadaJhin/aliyun-ddns/blob/master/src/main/resources/application.properties</br>
 启动：</br>
